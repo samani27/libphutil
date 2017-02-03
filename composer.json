@@ -1,0 +1,11 @@
+{
+	"name" : "sambleng/libphutil",
+	"description" : "a collection of utility classes and functions for PHP.",
+	"license": "Apache 2.0",
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+	},
+	"minimum-stability": "dev"
+}
